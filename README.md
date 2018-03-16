@@ -1,8 +1,8 @@
 # Calculadora de festas
 
-![Home](../img/Home.png?raw=true)
-![Home-Error](../img/Home-Error.png?raw=true)
-![Results](../img/Results.png?raw=true)
+![Home](/img/Home.png)
+![Home-Error](/img/Home-Error.png)
+![Results](/img/Results.png)
 
 Calculadora de festas é um projeto que tem como objetivo calcular o que deve ser comprado para uma festa de acordo com a quantidade de convidados adultos e crianças.
 Os inputs são:
